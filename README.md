@@ -1,3 +1,5 @@
+![](plots/wordcloud.png)
+
 # Linus-Rants
 
 A analysis of Linus Torvalds' rants on the Linux Kernel Mailing List (LKML).
