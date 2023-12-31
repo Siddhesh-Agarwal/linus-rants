@@ -1,8 +1,8 @@
-![](plots/wordcloud.png)
+![Wordcloud plot](./plots/wordcloud.png)
 
 # Linus-Rants
 
-A analysis of Linus Torvalds' rants on the Linux Kernel Mailing List (LKML).
+An analysis of Linus Torvalds' rants on the Linux Kernel Mailing List (LKML).
 
 ## Data
 
@@ -10,4 +10,10 @@ The data is taken by [corollari](https://github.com/corllari/) from [here](https
 
 ## Analysis
 
+### Bar Plot
+
 ![barplot](./plots/barplot.png)
+
+### Pie Chart
+
+![piechart](./plot/piechart.png)
